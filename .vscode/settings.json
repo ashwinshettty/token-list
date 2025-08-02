@@ -1,10 +1,6 @@
 {
-  "cSpell.userWords": [], // only use words from .cspell.json
-  "cSpell.enabled": true,
-  "editor.formatOnSave": true,
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true,
-  "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  }
+  "name": "Inkstall",
+  "symbol": "INK7",
+  "description": "A token for the Inkstall platform.",
+  "image": "https://raw.githubusercontent.com/ashwinshettty/token-list/main/assets/mainnet/H31oJiJVNjp3rafrcMKbRrkxcJdbWwbWDEv3t8kx9Lui/logo.png"
 }
